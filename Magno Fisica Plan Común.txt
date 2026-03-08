@@ -1,0 +1,46 @@
+--------------------- Dinamica ---------------------------------------
+La dinámica es el área de la física encargada de estudiar las causas del movimiento, para ello se introduce el concepto de
+la fuerza. Una fuerza es una interacción entre dos o mas objetos que pueden producir aceleración y/o deformaciones. Es una magnitud vectorial y se mide en newtons y dinas
+
+Sistema internacional: Newtons
+CGS: Dinas
+
+1 Newton = 10^5 Dinas
+1 Newton = 1 Kg X 1(m/s^2)
+1 Dina = 1 Gr x 1(m/s^2)
+
+Se define como fuerza neta a la suma de todas las fuerzas que actúan sobre un objeto, si esta se equilibra implica que la fuerza neta es 0.
+
+Leyes de Newton
+I. Inercia
+
+"Todo objeto permanece en reposo o MRU a menos que una fuerza actúe sobre el", esta ley indica la fuerza neta sobre un objeto es 0, el objeto puede estar o en reposo o
+en MRU. Ademas esta ley señala que cuando un objeto experimenta una aceleración al
+mismo tiempo se ve afectado por una fuerza ficticia contraria a los cambios en el movimiento denominada "Inercia", por ejemplo, si un auto frena de golpe, el objeto tendera a seguir en linea recta.
+Cuando un objeto experimenta una trayectoria circunferencial se vera afectado
+por la inercia en forma de una fuerza hacia afuera de la trayectoria denominada
+"Efecto centrifugo"
+
+II. "Ley fundamental de la dinámica"
+
+La fuerza neta aplicada sobre un objeto equivale al producto de la masa por su aceleración
+mF = M x A
+
+mF = Fuerza neta (n)
+M = Masa (kg)
+A = Aceleración (m/s^2)
+
+Observaciones:
+1. Si las masa del objeto permanece constante, entonces la aceleración será directamente proporcional a la fuerza aplicada.
+
+2. Si la fuerza aplicada permanece constante, entonces la aceleración será inversamente proporcional a la masa.
+
+III. Ley de accion y reacción
+
+"A toda accion le corresponde una reacción de igual magnitud, igual dirección, pero con sentido contrario."
+
+Observaciones:
+
+1. Accion y reacción actúan de manera simultanea, esto significa que aparecen al mismo tiempo, sin embargo, se pueden distinguir debido a que la reacción no existe sin la accion.
+
+2. Accion y reacción nunca se anulan, debido a que actúan sobre objetos diferentes

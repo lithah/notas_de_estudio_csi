@@ -1,0 +1,237 @@
+-------------------------------- Nutricion y dietas -------------------------
+Ventajas de una buena nutricion
+
+ - Mejora la función cerebral
+ - Proteje al corazón
+ - Fortalece el sistema inmune
+ - Ayuda a mantener una masa corporal saludable
+ - Mejora la digestión
+ - Favorece al descanso
+ - Fortalece huesos y musculos
+ - Mejora el aspecto de la piel, pelo, y uñas
+
+Desventajas de una mala nutrición
+
+ - Problemas cognitivos y emocionales
+ - Debilitamiento sistema inmune
+ - Alteraciones masa corporal
+ - Riesgo enfermedades cardiovasculares
+ - Problemas digestivos, oseos y musculares
+ - Deterioro de la piel, pelo y uñas
+
+Biomoléculas
+ 
+ - Aminoácidos
+ - Proteínas
+ - Carbohidratos
+ - Lípidos
+ - Acidos nucleicos
+ - Vitaminas
+
+Dietas
+ 
+ - Mediterranea
+  * Hecha de frutas, verduras, aceite de oliva, pescados, frutos secos, cereales integrales, y vino
+  * Rica en antioxidantes, grasas saludables, reduce riesgo cardiovascular
+  * Es costosa de mantener
+
+ - Keto
+  * Baja en carbs, alta en grasas y moderada en proteínas
+  * Rápida baja de peso, mejora de la sensibilidad a la resistencia a la insulina
+  * Difícil de mantener, provoca la "gripe keto"
+
+ - Vegana
+  * Solo alimentos vegetales
+  * Reduce riesgo cardiovascular
+  * Déficit de proteinas, vitamina B12, y hierro
+ 
+ - Paleo
+  * Contiene carnes de poca grasa, frutas, verduras y semillas
+  * Excluye lácteos y procesados
+  * Rica en proteínas, promueve la perdida de peso
+  * Difícil de mantener, y costosa
+
+Factores que influyen en nutrición
+ 
+ - Biologicos
+   + Genetica
+   + Edad
+   + Sexo
+   + Estado fisiologico
+   + Estado nutricional previo
+
+ - Ambientales
+   + Disponibilidad alimentaria
+   + Contaminacion
+   + Condiciones sanitarias
+ 
+ - Sociales
+   + Educación nutricional
+   + Publicidad
+   + Nivel socioeconomico
+   + Apoyo social/familiar
+
+------------- Patogenos, Enfermedades infecciosas, Sistema inmunologico y Tratamientos comunes -----------------------------
+Agentes infecciosos
+ - Cualquier entidad biologica que provoque algún enfermedad en un huesped suceptible
+ - Pueden ser
+  * Bacterias
+   > Vivo, Unicelular, de reproduccion asexual
+  * Protozoos
+   > Vivo, Unicelular y flagelado, de reproduccion binaria
+  * Virus
+   > No vivo, Formado por una estructura de ADN, de reproduccion por huesped
+  * Hongos 
+   > Vivo, Formado por fibras llamadas "hifas" y levaduras (unicelulares), de reproduccion por esporas
+
+Enfermedades infecciosas
+ - Trastornos de salud causados por
+  * Patogenos
+   > Pueden ser bacterias, viruses, hongos, protozoos, parasitos, entre otros
+ 
+Mecanismos de infeccion
+ - Fuente (agente infeccioso)
+  * El microorganismo causal de la infeccion
+  
+ - Reservorio
+  * Lugar donde reside el microorganismo y prolifera
+ 
+ - Salida
+  * Lugar de salida del reservorio hacia afuera
+  
+ - Metodos de transmision / Via de contagio
+  * Como el organismo pasa del reservorio a un huesped
+ 
+ - Entrada
+  * Lugar por el cual el agente accede al huesped
+  
+ - Huesped 
+  * Es cualquier organismo que pueda ser infectado
+  
+Metodos de transmision (ejemplo en *)
+ - Sangre
+  * Sida
+ - Prenatal
+  * Sifilis
+ - Aerea
+  * Influenza
+ - Vectores (como los mosquitos y las garrapatas pueden transportar patógenos que pueden transmitirse a nuevos huéspedes).
+  * Fiebre amarilla, peste negra
+ - Agua
+  * Giardiasis, cólera
+ - Alimentos
+  * Salmonella
+ - Contaminacion indirecta
+  * Covid-19
+ - Sexual
+  * Candidiasis
+
+Medicamentos utilizados para tratar patogenos
+ - Para viruses, antivirales
+ - Para bacterias y protozoos, antibioticos
+ - Para hongos, antifungicos / fungicida
+
+Enfermedades respiratorias
+ - Una de estas, para ejemplificar, podria ser el Covid-19, o la Influenza
+  * El covid tiene una proteina llamada Spikes, que se inserta en receptores presentes en los pulmones, alterando sus instrucciones
+ 
+ Ejemplo de una cadena de transmision
+ 
+           ------Agente causal------
+ Huesped /                           \ Reservorio
+ Entrada \                           / Salida
+          -Mecanismos de transmision-
+ 
+ Influenza / Gripe
+  - Tiene cuatro tipos (a,b,c,d), este ultimo solo contagia ganado
+  - Se contagia de manera de directa / indirecta
+   * Por gotas de saliva
+  - Para humanos, el tipo A / B son los mas comunes.
+  - Muta rapidamente
+
+Influenza tipo A 
+ - H1N1
+ - Sintomas comunes son diarrea, tos, y fiebre
+ - Poblacion de riesgo son niños, adultos mayores, y embarazadas
+ - Para prevenirla / tratarla, debe haber vacunacion y medidas de prevencion comunes; como distanciamiento social, y uso de mascarillas
+
+Gripe Aviar
+ - Descubierta en 1997, en Hongkong
+ - Rebroto en mayo de 2022
+¿Por que es dificil contenerlo?
+ - Se contagia entre ganado, una de las industrias mas grandes a nivel global
+ - Tiene alta taza capacidad mutagenica
+ - Se debe a la mala higiene de la industria aviaria
+ 
+Gripe española (H1N1)
+ - Propagacion via mala higiene y medidas de alejamiento inefectivas
+ 
+ Gripe Porcina
+ - El virus se detectó por primera vez en humanos en abril de 2009 en México
+ - Tiene mortalidad baja
+
+Covid-19
+ - SARS-COV-2
+ - Sintomas comunes son diarrea, tos, y fiebre
+ - Poblacion de riesgo son niños, adultos mayores, y embarazadas
+ - Para prevenirla / tratarla, debe haber vacunacion y medidas de prevencion comunes; como distanciamiento social, y uso de mascarillas
+ 
+ Infecciones (ITS) y enfermedades (ETS) de transmision sexual
+ - Infecciones
+  * Causadas por algun patogeno y pueden ser asintomaticas
+ - Enfermedades
+  * Son causadas por alguna infeccion de transmision sexual
+
+ITS mas comunes en Chile
+ - Gonorrea
+  > Ardor al orinar,
+  > Secreción de pus del pene o la vagina,
+  > Sangrado vaginal
+  > Dolor pélvico en las mujeres, dolor en los testículos en los hombres.
+  
+ - Sifilis
+  > llaga indolora 
+  > fiebre
+  > dolor de garganta 
+  > sarpullidos 
+  > Caída del cabello
+  > Verrugas
+  > Sarpullido
+  
+ - Virus del papiloma humano (VPH)
+  > Verrugas en el área genital 
+  > Lesiones precancerosas
+  > Cancer
+  > Dolor pélvico
+  > Flujo vaginal de olor desagradable
+  
+ - Herpes
+  > Erupciones cutaneas
+  > Ardor
+  > Hormigueo
+  > Ampollas
+  > Ganglios inflamados
+  > Fiebre
+
+Medidas de prevencion para enfermedades
+ - Lavado de manos, ventilar espacios compartidos, vacunacion, educacion sexual, uso de elementos de proteccion, y alcohol gel
+ 
+Sistema inmune
+ - Barrera primaria
+  * Piel, Mucosa, Lagrimas, Flora microbiana
+  * Proteje de cualquier patogeno
+  * No tiene memoria
+ - Barrera secundaria (inmunidad innata)
+  * Inflamacion, fiebre, sistema de complemento
+  * Compuesto por celulas
+   > Macrofagos y neutrofilos (reconocen y destruyen)
+ - Barrera terciaria
+  * Compuesta por
+   > Inmunidad celular
+   > Inmunidad humoral
+  * Tiene memoria celular, compuesta por 
+   > Anticuerpos y celulas
+   
+Anticuerpos
+ - Los patogenos contienen ciertas proteinas, lo que hacen los anticuerpos es anclarse a estas proteinas,
+ y en conjunto con otras celulas del sistema inmune, fagocitar el patogeno.
